@@ -1,0 +1,225 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "12eb4b0c": [
+      866
+    ],
+    "14eb3368": [
+      869,
+      969
+    ],
+    "1df93b7f": [
+      583
+    ],
+    "5b2a233e": [
+      744
+    ],
+    "5e95c892": [
+      647
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "c937df9b": [
+      586
+    ],
+    "cafac451": [
+      371
+    ],
+    "d4a98d98": [
+      702
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      792,
+      969,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.d44f4d4f.js",
+          "hash": "622325b775e7a867",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/a94703ab.d44f4d4f.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.b45b891f.js",
+          "hash": "6e2657c194bb879b",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/a7bd4aaa.b45b891f.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.ce2ed296.js",
+          "hash": "23803976cd025a53",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/a7456010.ce2ed296.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.42937bbf.js",
+          "hash": "10c12a4642fad696",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/237.42937bbf.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.4a860996.js",
+          "hash": "7ad1524267d6e908",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/runtime~main.4a860996.js"
+        }
+      ]
+    },
+    "371": {
+      "js": [
+        {
+          "file": "assets/js/cafac451.1c46a0db.js",
+          "hash": "e8e908201c9d0e0f",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/cafac451.1c46a0db.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.7be9a043.js",
+          "hash": "a71c95cadcc2dc72",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/17896441.7be9a043.js"
+        }
+      ]
+    },
+    "583": {
+      "js": [
+        {
+          "file": "assets/js/1df93b7f.87c01469.js",
+          "hash": "bb744a08abdeb5c2",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/1df93b7f.87c01469.js"
+        }
+      ]
+    },
+    "586": {
+      "js": [
+        {
+          "file": "assets/js/c937df9b.0e0209d9.js",
+          "hash": "fe2cbbb00c7dbfca",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/c937df9b.0e0209d9.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.6a9e32e7.js",
+          "hash": "9e188b7df30fc002",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/5e95c892.6a9e32e7.js"
+        }
+      ]
+    },
+    "702": {
+      "js": [
+        {
+          "file": "assets/js/d4a98d98.7bf172f9.js",
+          "hash": "a23a8b9adb0a3839",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/d4a98d98.7bf172f9.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.cddf7d8c.js",
+          "hash": "e360b684525d866e",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/aba21aa0.cddf7d8c.js"
+        }
+      ]
+    },
+    "744": {
+      "js": [
+        {
+          "file": "assets/js/5b2a233e.75eac9a6.js",
+          "hash": "6e350fd5cbfad50c",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/5b2a233e.75eac9a6.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.6f3f53a1.js",
+          "hash": "89bd177fc4568b04",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/main.6f3f53a1.js"
+        }
+      ]
+    },
+    "866": {
+      "js": [
+        {
+          "file": "assets/js/12eb4b0c.c1c54bde.js",
+          "hash": "39b1f74d72578be0",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/12eb4b0c.c1c54bde.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.861f36cb.css",
+          "hash": "2d44b88adab6c2db",
+          "publicPath": "/doc_demo/zh-Hans/assets/css/styles.861f36cb.css"
+        }
+      ]
+    },
+    "969": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.05767711.js",
+          "hash": "5ae1d630fa667763",
+          "publicPath": "/doc_demo/zh-Hans/assets/js/14eb3368.05767711.js"
+        }
+      ]
+    }
+  }
+}

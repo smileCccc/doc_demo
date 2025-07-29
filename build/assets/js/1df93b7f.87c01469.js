@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[583],{6866:(e,u,c)=>{c.r(u),c.d(u,{default:()=>t});var n=c(6540),s=c(6347);function t(){const e=(0,s.W6)();return(0,n.useEffect)(()=>{e.replace("/docs/intro")},[e]),null}}}]);

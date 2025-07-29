@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/doc_demo/zh-Hans/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/doc_demo/zh-Hans/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/doc_demo/zh-Hans/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "residential-proxies/api-extraction",
+              "path": "/doc_demo/zh-Hans/docs/residential-proxies/api-extraction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "residential-proxies/introduction",
+              "path": "/doc_demo/zh-Hans/docs/residential-proxies/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/residential-proxies",
+              "path": "/doc_demo/zh-Hans/docs/category/residential-proxies",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/doc_demo/zh-Hans/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
