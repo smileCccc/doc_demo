@@ -15,14 +15,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://smileCccc.github.io', // 你的 GitHub Pages 主页地址
+  url: 'https://smilecccc.github.io', // 你的 GitHub Pages 主页地址
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/doc_demo/', // 仓库名，注意前后斜杠
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'smileCccc', // GitHub 用户名
+  organizationName: 'smilecccc', // GitHub 用户名
   projectName: 'doc_demo', // 仓库名
 
   onBrokenLinks: 'throw',
